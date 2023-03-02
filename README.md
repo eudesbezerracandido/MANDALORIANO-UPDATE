@@ -29,3 +29,11 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info> O Mandaloriano e a Criança continuam sua jornada, enfrentando inimigos e reunindo aliados enquanto fazem seu caminho através de uma galáxia perigosa na era tumultuada após o colapso do Império Galáctico.</info>
 </item> 
+
+<item>
+<title>[COLOR silver][B] STAR WARS - O MANDALORIANO TEMPORADA 3° [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:850ef50945e7f01ea775bd6b0e3f7a8079d5c4ba</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eU1i6eHXlzMOlEq0ku1Rzq7Y4wA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Em The Mandalorian, acompanhamos a história de Din Djarin (Pedro Pascal), um guerreiro solitário que trabalha como caçador de recompensas. Ele embarca numa jornada pelos territórios esquecidos da galáxia, logo após a queda do Império e antes da criação da temida Primeira Ordem. O Mandaloriano está sempre buscando formas de melhorar sua armadura, até que recebe uma missão de um cliente misterioso no submundo de Nevarro. Ele precisa rastrear e capturar um alvo sem nome, de aproximadamente cinquenta anos e, apesar de seu cliente parecer não se importar, o Dr. Pershing (Omid Abtahi) insiste que seja mantido vivo. Então, ele encontra Grogu, um ser enigmático da raça de Yoda que precisa de sua ajuda. O Mandaloriano escolhe proteger Grogu, ou “A Criança”, como também é conhecido. Em sua busca para entender as origens de Grogu, os dois são perseguidos por Moff Gideon, um ex-governador do Império que teve a vida impactada depois que os rebeldes destruíram a segunda Estrela da Morte.</info>
+</item>
